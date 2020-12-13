@@ -1,0 +1,16 @@
+body {
+  background-image: url("/images/landscape-5101153_1920.jpg");
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+  
+}
+
+p {
+  color: white;
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.col12 {
+  margin-top: 40px;
+}
